@@ -1,0 +1,8 @@
+# Ignore this directories
+bootstrap/
+fontawesome/
+register/
+
+# Ignore this image
+1.jpg
+2.jpg
